@@ -12,7 +12,11 @@ Winter 2024 Worksheets
 
 Winter 2024 Meeting notes
 
+[Winter Meeting 05](2024-Meeting-Notes/Math_Analysis_Meeting_05_Notes.pdf)
+
 [Winter Meeting 07](2024-Meeting-Notes/Math_Analysis_Meeting_07_Notes.pdf)
+
+
 
 
 
