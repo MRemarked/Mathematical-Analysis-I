@@ -16,6 +16,8 @@ Winter 2024 Meeting notes
 
 [Winter Meeting 07](2024-Meeting-Notes/Math_Analysis_Meeting_07_Notes.pdf)
 
+[Winter Meeting 09](2024-Meeting-Notes/Math_Analysis_Meeting_09_Notes.pdf)
+
 
 
 
