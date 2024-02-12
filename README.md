@@ -1,6 +1,7 @@
 # Mathematical-Analysis-I
 
 Lectures Notes
+Lecture 01:[Real Numbers](Math-Analysis-Lecture-Notes/MATH4200_Notes_Part_01_Real_Numbers.pdf)
 
 Winter 2024 Worksheets
 
