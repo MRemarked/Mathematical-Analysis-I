@@ -28,6 +28,10 @@ Winter Meeting 11 [Part 1](2024-Meeting-Notes/Math_Analysis_Meeting_11_Notes_par
 
 [Winter Meeting 12](2024-Meeting-Notes/Math_Analysis_Meeting_12_Notes.pdf)
 
+[Winter Meeting 13](2024-Meeting-Notes/Math_Analysis_Meeting_13_Notes.pdf)
+
+
+
 
 
 
